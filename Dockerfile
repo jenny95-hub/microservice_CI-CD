@@ -5,7 +5,7 @@ FROM python:3.9-slim
 WORKDIR /app
 
 # Copy dependencies
-COPY requirements.txt .
+COPY requirement.txt .
 RUN pip install -r requirement.txt
 
 # Copy app code
