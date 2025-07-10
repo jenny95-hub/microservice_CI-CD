@@ -35,5 +35,9 @@ phases:
 artifacts:
   files:
     - imagedefinitions.json
+<<<<<<< HEAD
     - appspec.yml
+=======
+    - codedeply/appspec.yml
+>>>>>>> aa811e2778318da7fd5da6f039afa450d9deb17b
 
