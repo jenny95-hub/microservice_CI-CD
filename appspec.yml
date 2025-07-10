@@ -3,7 +3,7 @@ Resources:
   - TargetService:
       Type: AWS::ECS::Service
       Properties:
-        TaskDefinition: "course-service"
+        TaskDefinition: "arn:aws:ecs:ap-south-1:772693223288:task-definition/course-service-task:3"
         LoadBalancerInfo:
           ContainerName: "course-service"
           ContainerPort: 8080
