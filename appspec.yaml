@@ -1,9 +1,0 @@
-version: 0.0
-Resources:
-  - TargetService:
-      Type: AWS::ECS::Service
-      Properties:
-        TaskDefinition: "course-service"
-        LoadBalancerInfo:
-          ContainerName: "course-service"
-          ContainerPort: 8080
