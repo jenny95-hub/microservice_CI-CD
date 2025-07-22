@@ -21,6 +21,6 @@ To design, deploy, and manage a containerized microservices architecture using A
 ![Containerized microservice](architecture.jpg)
 
 #### Implementation guide
-[📘 Download disaster_recovery.docx](Deployment_ECS_Fargate.docx)
+[📘 Download Deployment_ECS_Fargate.docx](Deployment_ECS_Fargate.docx)
 
 *Note: This file is large and cannot be previewed on GitHub but can be downloaded by clicking the link.*
